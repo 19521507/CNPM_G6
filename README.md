@@ -2,7 +2,7 @@
 
 Participants:
 
-- Leader: Ngô Đắc Lợi-19521770(chó)
+- Leader: Ngô Đắc Lợi-19521770
 - Member: Nguyễn Tiến Đức-19521380
 - Member: Tăng Trí Đức-19521382
 - Member: Nguyễn Trung Hiếu-19521507
